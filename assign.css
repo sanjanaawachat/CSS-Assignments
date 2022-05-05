@@ -1,0 +1,36 @@
+h2{
+   color: red; 
+}
+
+b{
+    color: red;
+}
+
+ol{
+    color: #8e2525;
+}
+
+li{
+    font-size: x-small;
+}
+
+.sja{
+    text-decoration: line-through;
+}
+.sgl{
+    background-color: yellow;
+}
+ul{
+    color: #8e2525;
+    letter-spacing: 4px;
+}
+.kgl{
+    background-color: yellow;
+}
+p{
+    color: #8e2525;
+    font-size: x-small;
+}
+.yut{
+    background-color: yellow;
+}
